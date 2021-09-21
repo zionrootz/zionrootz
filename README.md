@@ -5,12 +5,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zionrootz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="COBOL" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/file_type_cobol_icon_130684.svg">
+  <img align="center" alt="DB2" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/01_INSTANA_IBM-DB2.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/python-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/bash-original.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/oracle-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/linux-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/c-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/arduino-original-wordmark.svg">
 </div>
   
   ##
