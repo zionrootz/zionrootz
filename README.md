@@ -13,9 +13,9 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/linux-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/c-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/arduino-original-wordmark.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/zionrootz/zionrootz/main/javascript-plain.svg">
 </div>
   
   ##
